@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dandelion flower - Taraxacum officinale
+* source:	https://sketchfab.com/3d-models/dandelion-flower-taraxacum-officinale-7b5ae00cdcde4abf922463e7280af670
+* author:	Andrei Loghin (https://sketchfab.com/andrei3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dandelion flower - Taraxacum officinale" (https://sketchfab.com/3d-models/dandelion-flower-taraxacum-officinale-7b5ae00cdcde4abf922463e7280af670) by Andrei Loghin (https://sketchfab.com/andrei3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

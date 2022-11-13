@@ -1,3 +1,38 @@
 @tailwind base;
 @tailwind utilities;
 @tailwind components;
+
+@font-face {
+  font-family: 'Sarvatrik';
+  src: url('/regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  * {
+    @apply text-white;
+  }
+  h1 {
+    @apply font-silkscreen;
+  }
+  p {
+    @apply font-sarvatrik text-xl;
+  }
+  h1 {
+    @apply text-4xl md:text-7xl;
+  }
+  h2 {
+    @apply text-4xl;
+  }
+}
+
+@layer utilities {
+  .three-canvas-container {
+    min-height: 100vh;
+  }
+  .button {
+    @apply transition-all hover:underline hover:opacity-80;
+  }
+}
